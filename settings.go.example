@@ -1,0 +1,6 @@
+package main
+
+const (
+	HMAC_SECRET=""
+	HMAC_SALT=""
+)
